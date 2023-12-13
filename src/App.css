@@ -1,0 +1,73 @@
+.App{
+     
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.task-create{
+    width: 450px;
+}
+.task-update{
+    width: 100%;
+}
+.task-form{
+    display: flex;
+    flex-direction: column;
+}
+.task-label{
+    margin: 10px 0;
+}
+.task-input{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.task-button{
+    margin: 10px 0;
+    padding: 10px ;
+    border: 1px solid green;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+.update-button{
+    background-color: blueviolet;
+}
+.task-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.task-show{
+    border: 1px solid green;
+    border-radius: 30px;
+    padding: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+task-title{
+  margin-bottom: 5px;
+}
+.task-delete{
+    width: 60px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+.task-edit{
+    width: 100px;
+    background: darkblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-right: 15px;
+    padding: 5px;
+}

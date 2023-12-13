@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "Elmir",
+      "taskDesc": "Allahverdiyev",
+      "id": 1
+    },
+    {
+      "title": "Ibrahim",
+      "taskDesc": "contest",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
